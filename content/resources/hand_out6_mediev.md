@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: fd9c642f-b392-80be-79dd-29b25756379b
 resourcetype: Document
 title: Medieval Women Mystics
 uid: c263ddb4-af01-9a43-cd73-48437c712077

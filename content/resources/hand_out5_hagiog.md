@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: fd9c642f-b392-80be-79dd-29b25756379b
 resourcetype: Document
 title: Function and Purpose of Virginity Among Early Christians
 uid: bf2f73c7-a8cb-b93a-0cdd-e2cbe5997de2
