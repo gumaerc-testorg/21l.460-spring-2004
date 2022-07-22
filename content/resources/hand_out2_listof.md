@@ -5,6 +5,7 @@ file: /courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/09
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Chronology of Principle Medieval Women Writers
 uid: 09f801e1-779f-2f4c-cdb7-052eeb59c7fe
 ---
 List of authors with dates of activity.
-

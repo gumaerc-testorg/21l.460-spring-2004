@@ -5,6 +5,7 @@ file: /courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/c2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Medieval Women Mystics
 uid: c263ddb4-af01-9a43-cd73-48437c712077
 ---
 Outline of reading assignment topics.
-

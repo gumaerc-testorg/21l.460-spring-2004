@@ -5,6 +5,7 @@ file: /courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/fa
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Chaucer, The Canterbury Tales, "The Wife of Bath's Prologue," vv.669-96
 uid: faafa5e4-bba3-d85c-586a-0d55cccf2e20
 ---
 Excerpt from Chaucer's "The Canterbury Tales."
-

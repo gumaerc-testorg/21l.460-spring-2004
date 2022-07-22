@@ -5,6 +5,7 @@ file: /courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/8c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Jerome, Against Jovinian
 uid: 8c409145-3591-abef-c1a7-f1381ee9c1b4
 ---
 An outline of the document, "Against Jovinian," written by St. Jerome.
-

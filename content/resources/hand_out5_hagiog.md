@@ -6,6 +6,7 @@ file: /courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/bf
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Function and Purpose of Virginity Among Early Christians
 uid: bf2f73c7-a8cb-b93a-0cdd-e2cbe5997de2
 ---
 Outline of a lecture on the function and purpose of virginity among early Christians.
-
