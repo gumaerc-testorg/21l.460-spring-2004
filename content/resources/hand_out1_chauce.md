@@ -2,6 +2,7 @@
 content_type: resource
 description: Excerpt from Chaucer's "The Canterbury Tales."
 file: /courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/faafa5e4bba3d85c586a0d55cccf2e20_hand_out1_chauce.pdf
+file_size: 64393
 file_type: application/pdf
 learning_resource_types:
 - Readings
