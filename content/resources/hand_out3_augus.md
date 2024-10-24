@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Excerpt from the writings of St. Augustine.
-file: /courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/34d4293fc75f0dee940eaf001098bce9_hand_out3_augus.pdf
+file: /ol-ocw-studio-app/courses/21l-460-medieval-literature-medieval-women-writers-spring-2004/34d4293fc75f0dee940eaf001098bce9_hand_out3_augus.pdf
 file_size: 67895
 file_type: application/pdf
 learning_resource_types:
