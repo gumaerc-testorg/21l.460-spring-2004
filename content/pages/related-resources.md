@@ -1,14 +1,13 @@
 ---
 content_type: page
 description: This section provides links to external web resources for the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 86e348f5-aae2-113e-1850-4885c86606ea
 ---
-
-On-Line Resources
------------------
+## On-Line Resources
 
 ### Classical Literature
 
@@ -78,7 +77,7 @@ On-Line Resources
 
 Geoffrey Chaucer
 
-[The Geoffrey Chaucer Website Homepage](http://www.courses.fas.harvard.edu/~chaucer/)
+[The Geoffrey Chaucer Website Homepage](https://www.britannica.com/biography/Geoffrey-Chaucer)
 
 [Geoffrey Chaucer. Org](http://geoffreychaucer.org/)
 
@@ -86,7 +85,7 @@ Geoffrey Chaucer
 
 William Langland
 
-[The Piers Plowman Electronic Archive](http://jefferson.village.virginia.edu/piers/tcontents.html)
+[The Piers Plowman Electronic Archive](https://piers.chass.ncsu.edu/)
 
 [The William Langland Homepage](http://web.archive.org/web/20011216230127/www.english.upenn.edu/~lwarner/piers.html/)
 
