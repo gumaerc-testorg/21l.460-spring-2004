@@ -17,11 +17,9 @@ uid: 86e348f5-aae2-113e-1850-4885c86606ea
 
 [Project Libellus](http://www.hhhh.org/perseant/libellus/)
 
-[Bibliotheca Latina](http://www.gutenberg.org/files/27672/27672-h/files/comm.html)
-
 [Bibliotheca Augustana](http://www.fh-augsburg.de/~harsch/augustana.html)
 
-[Electronic Text Center, University of Virginia](http://etext.lib.virginia.edu/latin.html)
+[Electronic Text Center, University of Virginia](https://archives.lib.virginia.edu/repositories/uva-sc/resources/university_of_virginia_electronic_text_center_reco)
 
 [Forum Romanum](http://www.forumromanum.org/)
 
@@ -43,7 +41,7 @@ uid: 86e348f5-aae2-113e-1850-4885c86606ea
 
 [Bibliotheca Augustana](http://www.fh-augsburg.de/~harsch/augustana.html)
 
-[Electronic Text Center, University of Virginia](http://etext.lib.virginia.edu/latin.html)
+[Electronic Text Center, University of Virginia](https://archives.lib.virginia.edu/repositories/uva-sc/resources/university_of_virginia_electronic_text_center_reco)
 
 ### Medieval Resources - General
 
@@ -54,8 +52,6 @@ uid: 86e348f5-aae2-113e-1850-4885c86606ea
 [Labyrinth](https://blogs.commons.georgetown.edu/labyrinth/categories/home/about-the-labyrinth/)
 
 [Columbia Electronic Text Service](http://www.columbia.edu/cu/lweb/indiv/ets/offsite.subject.html#medieval)
-
-[NetSerf](http://www.netserf.org/)
 
 [Grover Furr's Medieval Literature and History Page](http://www.chss.montclair.edu/english/furr/medieval.html)
 
@@ -137,13 +133,11 @@ Giovanni Boccaccio
 
 [Christian Classics Ethereal Library](http://www.ccel.org/)
 
-[Bibliotheca Latina](http://polyglot.lss.wisc.edu/classics/biblio.htm)
-
 [Bibliotheca Augustana](http://www.fh-augsburg.de/~harsch/augustana.html)
 
 [Project Libellus](http://www.hhhh.org/perseant/libellus/)
 
-[Electronic Text Center, University of Virginia](http://etext.lib.virginia.edu/latin.html)
+[Electronic Text Center, University of Virginia](https://archives.lib.virginia.edu/repositories/uva-sc/resources/university_of_virginia_electronic_text_center_reco)
 
 [Forum Romanum: Corpus Scriptorum Latinorum](http://www.forumromanum.org/literature/index.html)
 
