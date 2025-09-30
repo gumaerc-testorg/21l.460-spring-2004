@@ -83,7 +83,7 @@ Augustine. *On the Literal Meaning of Genesis* XI. xxxvii. 50, xlii. 58-59.
 
 Jerome. *Against Jovinian.* Book I.
 
-(Available [on-line](http://etext.lib.virginia.edu/kjv.browse.html) through the Electronic Text Services at the University of Virginia, and through the [Christian Classics Ethereal Library](http://www.ccel.org/fathers2/NPNF2-06/Npnf2-06-10.htm).)
+(Available {{% resource_link "e2897d02-1bb1-407f-a253-2db74ea88207" "on-line" %}} through the Electronic Text Services at the University of Virginia, and through the {{% resource_link "330ee95a-d260-4091-80da-3181c82fb303" "Christian Classics Ethereal Library" %}}.)
 
 {{< tdclose >}}{{< tdopen >}}
 
